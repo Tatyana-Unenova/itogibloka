@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\итоги блока\zitogi\bin\Debug\net6.0\zitogi.exe
+C:\Users\ПК\Desktop\итоги блока\zitogi\bin\Debug\net6.0\zitogi.deps.json
+C:\Users\ПК\Desktop\итоги блока\zitogi\bin\Debug\net6.0\zitogi.runtimeconfig.json
+C:\Users\ПК\Desktop\итоги блока\zitogi\bin\Debug\net6.0\zitogi.dll
+C:\Users\ПК\Desktop\итоги блока\zitogi\bin\Debug\net6.0\zitogi.pdb
+C:\Users\ПК\Desktop\итоги блока\zitogi\obj\Debug\net6.0\zitogi.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\итоги блока\zitogi\obj\Debug\net6.0\zitogi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\итоги блока\zitogi\obj\Debug\net6.0\zitogi.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\итоги блока\zitogi\obj\Debug\net6.0\zitogi.AssemblyInfo.cs
+C:\Users\ПК\Desktop\итоги блока\zitogi\obj\Debug\net6.0\zitogi.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\итоги блока\zitogi\obj\Debug\net6.0\zitogi.dll
+C:\Users\ПК\Desktop\итоги блока\zitogi\obj\Debug\net6.0\refint\zitogi.dll
+C:\Users\ПК\Desktop\итоги блока\zitogi\obj\Debug\net6.0\zitogi.pdb
+C:\Users\ПК\Desktop\итоги блока\zitogi\obj\Debug\net6.0\zitogi.genruntimeconfig.cache
+C:\Users\ПК\Desktop\итоги блока\zitogi\obj\Debug\net6.0\ref\zitogi.dll
